@@ -1,7 +1,7 @@
 /**
  *  @fileOverview Модуль кластеризации сетевого nodejs приложения
  *
- *  @author Владислав Крыловский
+ *  @author telegram: @little0big
  *
  *  @version 1.0.0
  */
